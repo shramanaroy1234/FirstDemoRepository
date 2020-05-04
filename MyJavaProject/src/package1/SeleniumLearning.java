@@ -9,7 +9,6 @@ public class SeleniumLearning {
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\SHRAMANA\\Desktop\\Self Learning\\Selenium\\Drivers for selenium Project\\chromedriver_win32\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.google.com");
-		System.out.println("I am learning selenium");
 		
 
 	}
